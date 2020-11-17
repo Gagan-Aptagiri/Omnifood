@@ -532,7 +532,7 @@ cite img{
 .fb,
 .twitter,
 .google,
-.insta {
+.instagram {
   transition: color 0.2s;
 }
 
@@ -548,7 +548,7 @@ cite img{
   color: #dd4b39;
 }
 
-.insta:hover{
+.instagram:hover{
   color: #517fa4;
 }
 
